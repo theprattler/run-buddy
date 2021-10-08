@@ -12,3 +12,5 @@ https://theprattler.github.io/run-buddy/
 
 ## Contribution
 Made with :heart: by theprattler
+
+### &copy;2019 Run Buddy, Inc
